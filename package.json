@@ -1,0 +1,23 @@
+{
+  "name": "Movie-MVC-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafaalby/Movie-MVC-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafaalby/Movie-MVC-app/issues"
+  },
+  "homepage": "https://github.com/mustafaalby/Movie-MVC-app#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
