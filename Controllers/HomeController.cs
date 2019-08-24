@@ -33,7 +33,7 @@ namespace Movie_MVC_app.Controllers
           MovieCategoryModel model=new MovieCategoryModel();
           model.Categories=CategoryRepository.Category;
           model.Movie=MovieRepository.getByID(id);
-          return View(model);
+          return View(model.Movie);
         }
     }
 }
