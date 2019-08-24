@@ -29,3 +29,9 @@ C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Mov
 C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Movie-MVC-app.dll
 C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Movie-MVC-app.pdb
 C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Movie-MVC-app.csproj.CopyComplete
+C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_footer.g.cshtml.cs
+C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_navbar.g.cshtml.cs
+C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Razor\Views\Home\_movies.g.cshtml.cs
+C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_menu.g.cshtml.cs
+C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Razor\Views\Home\details.g.cshtml.cs
+C:\Users\albym\Desktop\Github\movieApp\Movie-MVC-app\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs

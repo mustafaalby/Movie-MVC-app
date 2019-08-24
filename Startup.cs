@@ -26,11 +26,11 @@ namespace Movie_MVC_app
         {
             app.UseStaticFiles();
             app.UseStaticFiles(new StaticFileOptions
-                {
-                    FileProvider=new PhysicalFileProvider
-                    (Path.Combine(Directory.GetCurrentDirectory(),"node_modules/")),
-                    RequestPath="/modules"
-            });
+            {
+                FileProvider = new PhysicalFileProvider(
+                Path.Combine(Directory.GetCurrentDirectory(), "node_modules")),
+                RequestPath = "/modules"
+            }); 
 
 
             if (env.IsDevelopment())
